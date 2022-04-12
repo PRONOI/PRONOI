@@ -1,4 +1,4 @@
-<h1 align="center">HEY‘‹, I'm ᴘʀᴀɴᴀʏ</h1>
+<h1 align="center">ʜᴇʏ ɪ ᴀᴍ ᴘʀᴀɴᴀʏ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronoi&label=Profile%20views&color=0e75b6&style=flat" alt="pronoi" /> </p>
@@ -13,7 +13,7 @@
 
 - ðŸ“« How to reach me **alonexboy123@gmail.com**
 
-- âš¡ Fun fact **I think I funny guyðŸŒ**
+- Fun fact **ɪ ᴅᴏɴ'ᴛ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
