@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronoi" alt="pronoi" /></a> </p>
 
-<a href="https://t.me/ALONExBOY"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<h1 align="center">ᴀʙᴏᴜᴛ ᴍᴇ</h1>
 
 - **ɪ ᴀᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ᴏꜰ ɢɪᴛʜᴜʙ ꜱᴛɪʟʟ ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ**
 
