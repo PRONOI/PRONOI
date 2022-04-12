@@ -13,7 +13,7 @@
 
 - ðŸ“« How to reach me **alonexboy123@gmail.com**
 
-- Fun fact **ɪ ᴅᴏɴ'ᴛ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
+- ᴀʙᴏᴜᴛ~ **ɪ ᴅᴏɴ'ᴛ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
