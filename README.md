@@ -1,5 +1,5 @@
 <h1 align="center">ʜᴇʏ ɪ ᴀᴍ ᴘʀᴀɴᴀʏ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">ɪ ᴀᴍ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronoi&label=Profile%20views&color=0e75b6&style=flat" alt="pronoi" /> </p>
 
