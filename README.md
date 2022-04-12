@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python,c++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PRONOI](https://github.com/PRONOI)
+- 👨‍💻 meet me here ➤ [https://t.me/PRONOI](https://github.com/PRONOI)
 
 - 📫 How to reach me **alonexboy123@gmail.com**
 
