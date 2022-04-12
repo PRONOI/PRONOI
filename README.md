@@ -9,7 +9,7 @@
 
 - **ɪ ᴀᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ᴏꜰ ɢɪᴛʜᴜʙ ꜱᴛɪʟʟ ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ**
 
-- **ᴍᴏꜱᴛ ᴏꜰ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ**
+- **ᴍᴏꜱᴛ ᴏꜰ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ https://img.shields.io/badge/Contact-%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 - ᴍʏ ɢᴍᴀɪʟ ᴀᴄᴄᴏᴜɴᴛ **alonexboy123@gmail.com**
 
