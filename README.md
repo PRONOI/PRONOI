@@ -15,10 +15,11 @@
 
 - ᴀʙᴏᴜᴛ~ **ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝙎𝙝𝙞𝙩? 𝘼 𝙋𝙞𝙚𝙘𝙚 𝙊𝙛 𝙇𝙞𝙛𝙚 || 𝙈𝙚𝙚𝙩 𝙈𝙚 𝙃𝙚𝙧𝙚 ➤ </h3>
 <p align="left">
 <a href="https://twitter.com/alone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alone" height="30" width="40" /></a>
 </p>
+<a href="https://t.me/ALONExBOY"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
