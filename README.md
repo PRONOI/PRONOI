@@ -11,7 +11,7 @@
 
 - **ᴍᴏꜱᴛ ᴏꜰ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ** <a href="https://telegram.org/dl"><img src="https://img.shields.io/badge/-%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-- ᴍʏ ɢᴍᴀɪʟ ᴀᴄᴄᴏᴜɴᴛ **alonexboy123@gmail.com**
+- **ᴍʏ ɢᴍᴀɪʟ ᴀᴄᴄᴏᴜɴᴛ** alonexboy123@gmail.com**
 
 - ᴀʙᴏᴜᴛ~ **ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
 
