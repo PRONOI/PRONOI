@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronoi" alt="pronoi" /></a> </p>
 
-<a href="https://t.me/anonymous_was_bot"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ALONExBOY"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 - **ɪ ᴀᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ᴏꜰ ɢɪᴛʜᴜʙ ꜱᴛɪʟʟ ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ**
 
-- 
+- **ᴍᴏꜱᴛ ᴏꜰ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ**
 
 - ᴍʏ ɢᴍᴀɪʟ ᴀᴄᴄᴏᴜɴᴛ **alonexboy123@gmail.com**
 
