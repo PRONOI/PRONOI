@@ -9,7 +9,7 @@
 
 - **ɪ ᴀᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ᴏꜰ ɢɪᴛʜᴜʙ ꜱᴛɪʟʟ ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ**
 
-- **ᴍᴏꜱᴛ ᴏꜰ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ** <img src="https://img.shields.io/badge/-%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+- **ᴍᴏꜱᴛ ᴏꜰ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴀʀᴇ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ** <a href="https://telegram.org/dl"><img src="https://img.shields.io/badge/-%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 - ᴍʏ ɢᴍᴀɪʟ ᴀᴄᴄᴏᴜɴᴛ **alonexboy123@gmail.com**
 
