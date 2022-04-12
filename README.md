@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/alone" target="blank"><img src="https://img.shields.io/twitter/follow/alone?logo=twitter&style=for-the-badge" alt="alone" /></a> </p>
 
-- **ɪ ᴀᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ᴏꜰ ɢɪᴛʜᴜʙ ᴏʜ ꜱᴛɪʟʟ ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ**
+- **ɪ ᴀᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ᴏꜰ ɢɪᴛʜᴜʙ ꜱᴛɪʟʟ ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/PRONOI](https://github.com/PRONOI)
+- 
 
-- ðŸ“« How to reach me **alonexboy123@gmail.com**
+- ᴍʏ ɢᴍᴀɪʟ ᴀᴄᴄᴏᴜɴᴛ **alonexboy123@gmail.com**
 
 - ᴀʙᴏᴜᴛ~ **ɪ ᴅᴏɴ'ᴛ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
 
