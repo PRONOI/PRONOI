@@ -1,4 +1,3 @@
-[![MasterHead](https://telegra.ph/file/8e0a8b5ff4cf9a464842f.jpg
 <h1 align="center">ʜᴇʏ ɪ ᴀᴍ ᴘʀᴀɴᴀʏ</h1>
 <h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳</h3>
 
