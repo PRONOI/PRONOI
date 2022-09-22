@@ -22,7 +22,7 @@
     <div class="instagram-logo"><div><div></div><div></div></div></div>
 </div>
 
-<a class="twitter-button" href="https://twitter.com/MonirAbuHilal" target="_blank" title="Follow on twitter">@MonirAbuHilal</a>
+<a class="instagram-button" href="https://instagram.com/xd.pranay_?igshid=YmMyMTA2M2Y=" target="_blank" title="Follow on twitter">@xd.pranay_</a>
 </p>
 <a href="https://t.me/Xd_LyF"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
