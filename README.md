@@ -29,9 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoi&show_icons=true&locale=en" alt="pronoi" /></p
 
 <!-- Your github readme stats
-You can use this api: https://github.com/jankarikiduniya/github-readme-stats
+You can use this api: https://github.com/PRONOI/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/KingAbishnoi/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=KingAbishnoi&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
+<a href="https://github.com/PRONOI/PRONOI">
+<img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=KingAbishnoi&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
   </a>
