@@ -18,6 +18,7 @@
 <h3 align="left">𝙎𝙝𝙞𝙩? 𝘼 𝙋𝙞𝙚𝙘𝙚 𝙊𝙛 𝙇𝙞𝙛𝙚 || 𝙈𝙚𝙚𝙩 𝙈𝙚 𝙃𝙚𝙧𝙚 ➤ </h3>
 <p align="left">
 <a href="https://twitter.com/alone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alone" height="30" width="40" /></a>
+[<img src="https://github.com/PRONOI/PRONOI/blob/master/resources/pngwing.com.png" width="60px">](https://instagram.com/xd.pranay_?igshid=YmMyMTA2M2Y=)
 </p>
 <a href="https://t.me/Xd_LyF"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
