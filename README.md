@@ -15,14 +15,14 @@
 
 - ᴀʙᴏᴜᴛ~ **ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
 
-<h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://github.com/PRONOI/PRONOI/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 𝙎𝙝𝙞𝙩? 𝘼 𝙋𝙞𝙚𝙘𝙚 𝙊𝙛 𝙇𝙞𝙛𝙚 || 𝙈𝙚𝙚𝙩 𝙈𝙚 𝙃𝙚𝙧𝙚 ➤ </h3>
 <p align="left">
 <a href="https://twitter.com/alone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alone" height="30" width="40" /></a>
 </a> <a href="https://www.instagram.com/xd.pranay_"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px">
 <a href="https://t.me/Xd_LyF"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-<h1> <img src = "https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <img src = "https://github.com/PRONOI/PRONOI/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=AnonymousR1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AnonymousR1025)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousR1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnonymousR1025)
 
