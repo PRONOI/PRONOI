@@ -18,24 +18,7 @@
 <h3 align="left">𝙎𝙝𝙞𝙩? 𝘼 𝙋𝙞𝙚𝙘𝙚 𝙊𝙛 𝙇𝙞𝙛𝙚 || 𝙈𝙚𝙚𝙩 𝙈𝙚 𝙃𝙚𝙧𝙚 ➤ </h3>
 <p align="left">
 <a href="https://twitter.com/alone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alone" height="30" width="40" /></a>
-<div class="logo-preview">
-    <div class="instagram-logo"><div><div></div><div></div></div></div>
-</div>
-
-<a class="instagram-button" href="https://instagram.com/xd.pranay_?igshid=YmMyMTA2M2Y=" target="_blank" title="Follow on twitter">@xd.pranay_</a>
-
-<html>
-  <head>
-  </head>
-<div id="widget ">
-  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/myurl/" class="btn" id="b"><i class="fa fa-instagram ft14"></i><span class="label" id="l">Instagram</span></a></div>
-</div>
-
-  
-  <div><i class="fa fa-instagram ft60 clr-prl"></i> </div>
-  
-    <div><i class="fa fa-instagram ft60 clr-blue"></i> </div>
-</p>
+</a> <a href="https://www.instagram.com/xd.pranay_"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px">
 <a href="https://t.me/Xd_LyF"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <h3 align="left">Languages and Tools:</h3>
