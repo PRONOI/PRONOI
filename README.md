@@ -30,7 +30,4 @@ You can use this api: https://github.com/jankarikiduniya/github-readme-stats
   <a href="https://github.com/KingAbishnoi/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=KingAbishnoi&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
   </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronoi&show_icons=true&locale=en&layout=compact" alt="pronoi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoi&show_icons=true&locale=en" alt="pronoi" /></p
-
+https://github-readme-stats.vercel.app/api/top-langs?username=pronoi&show_icons=true&locale=en&layout=compact
