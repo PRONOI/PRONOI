@@ -24,6 +24,6 @@
 
 <h1> </>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=PRONOI&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AnonymousR1025)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousR1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnonymousR1025)
+[<img src="https://github-readme-stats.vercel.app/api?username=PRONOI&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/PRONOI)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRONOI&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/PRONOI)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
