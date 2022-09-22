@@ -23,6 +23,18 @@
 </div>
 
 <a class="instagram-button" href="https://instagram.com/xd.pranay_?igshid=YmMyMTA2M2Y=" target="_blank" title="Follow on twitter">@xd.pranay_</a>
+
+<html>
+  <head>
+  </head>
+<div id="widget ">
+  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/myurl/" class="btn" id="b"><i class="fa fa-instagram ft14"></i><span class="label" id="l">Instagram</span></a></div>
+</div>
+
+  
+  <div><i class="fa fa-instagram ft60 clr-prl"></i> </div>
+  
+    <div><i class="fa fa-instagram ft60 clr-blue"></i> </div>
 </p>
 <a href="https://t.me/Xd_LyF"><img src="https://img.shields.io/badge/Contact-%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
