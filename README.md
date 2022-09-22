@@ -15,7 +15,7 @@
 
 - ᴀʙᴏᴜᴛ~ **ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴡʜʏ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴏɴᴇ**
 
-<h1> <img src="https://github.com/PRONOI/PRONOI/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://github.com/PRONOI/PRONOI/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 𝙎𝙝𝙞𝙩? 𝘼 𝙋𝙞𝙚𝙘𝙚 𝙊𝙛 𝙇𝙞𝙛𝙚 || 𝙈𝙚𝙚𝙩 𝙈𝙚 𝙃𝙚𝙧𝙚 ➤ </h3>
 <p align="left">
 <a href="https://twitter.com/alone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alone" height="30" width="40" /></a>
